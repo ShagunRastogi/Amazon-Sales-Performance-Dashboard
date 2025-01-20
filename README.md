@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/366a24ca-8ec5-4c5a-920e-f3b5a34759fe)# Amazon-Sales-Performance-Dashboard
-
 ## Project Overview
 The project involves creating an interactive and visually appealing dashboard using Excel and Power BI. The primary purpose is to analyze and present Amazon sales data in a manner that facilitates strategic decision-making. The dashboard highlights key sales trends, performance metrics, and insights that allow users to understand sales dynamics efficiently.
 
